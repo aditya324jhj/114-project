@@ -1,0 +1,9 @@
+#ad
+{
+    font-size: 50px;  
+    font-family: 'Qahiri', sans-serif;
+}
+#ad:hover{
+color:red
+}
+canvas {border-style: dotted;}
